@@ -1,0 +1,5 @@
+pool_id,url,hashrate,miners,minpay,id,feetype,workers,income,i_blocks,blocks_nr,lastblock,lastblocktime,blocks_1000,blocks_count,hashrate_average_100_count,hashrate_average_100hashrate_average_1h,hashrate_average_7d,hashrate_average_7d_count,expected_blocks,luck
+miningandco.com,https://decred.miningandco.com,11140000000000,-1,-1,33,PPS,0,0,0,10,1002511,1755622223,86,0,77,0,11443785714285.719,168,66.61,0
+threepool.tech,https://dcr.threepool.tech,5970000000000,-1,-1,35,PPLNS,0,0,0,11,1002619,1755655556,300,31,77,0,6118276785714.284,168,34.79,-3.7888639073465598
+woolypooly.com,https://woolypooly.com,0,0,0.05,37,PPLNS%0.9|SOLO%0.9,0,0,15677,0,0,0,0,0,77,0,0,168,0,0
+cedric-crispin.com,https://decred.cedric-crispin.com,841136312524,3,0.001,36,PPLNS,0,0,19170,0,1002615,1755654153,53,8,77,0,693344672276.9923,140,4.21,3.7888639073465633
